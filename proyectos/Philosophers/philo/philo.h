@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   philo.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sasalama <sasalama@student.42.fr>          +#+  +:+       +#+        */
+/*   By: salustianosalamanca <salustianosalamanc    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/11 10:43:12 by sasalama          #+#    #+#             */
-/*   Updated: 2022/07/11 12:35:08 by sasalama         ###   ########.fr       */
+/*   Updated: 2022/07/12 12:23:55 by salustianos      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,3 +38,4 @@ int	number_of_times_each_philosopher_must_eat(int eat_number_time);
 int	ft_atoi(const char *str);
 
 #endif
+hola
